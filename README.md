@@ -8,7 +8,7 @@ This project involves exploratory data analysis (EDA) of a hotel booking dataset
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/hotel-booking-eda.git
+   git clone https://github.com/emocreator/hotel-booking-eda.git
    ```
 
 2. Install the required Python packages using `pip`:
