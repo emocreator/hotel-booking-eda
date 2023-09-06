@@ -58,4 +58,4 @@ The analysis provides answers to the two questions mentioned above, helping to g
 
 ## Acknowledgments
 
-This project is based on the Hotel Booking dataset and is meant for educational purposes. The dataset source and more information can be found [here](https://github.com/emocreator/hotel-booking-eda/blob/main/Hotel_booking.ipynb).
+This project is based on the Hotel Booking dataset and is meant for educational purposes. The dataset source and more information can be found [here](https://github.com/emocreator/hotel-booking-eda/blob/main/hotel_bookings.csv).
