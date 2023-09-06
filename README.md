@@ -25,7 +25,7 @@ This project involves exploratory data analysis (EDA) of a hotel booking dataset
 
 The project contains the following files:
 
-- `hotel_booking_eda.ipynb`: Jupyter Notebook containing the Python code for EDA analysis.
+- `Hotel_booking.ipynb`: Jupyter Notebook containing the Python code for EDA analysis.
 - `hotel_bookings.csv`: Dataset file containing hotel booking information.
 
 ## Analysis Tasks
